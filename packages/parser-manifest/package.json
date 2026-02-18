@@ -8,7 +8,7 @@
   },
   "description": "sonarwhal parser for web app manifest files",
   "devDependencies": {
-    "ajv": "^6.5.1",
+    "ajv": "^8.18.0",
     "ava": "^0.25.0",
     "cpx": "^1.5.0",
     "eslint": "^4.19.1",
