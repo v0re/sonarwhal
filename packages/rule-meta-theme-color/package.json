@@ -7,7 +7,7 @@
     "timeout": "1m"
   },
   "dependencies": {
-    "color-string": "^1.5.2"
+    "color-string": "^1.5.5"
   },
   "description": "sonarwhal rule that checks for best practices related to the 'theme-color' meta tag",
   "devDependencies": {

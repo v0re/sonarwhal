@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bcp47": "^1.1.2",
-    "color-string": "^1.5.2"
+    "color-string": "^1.5.5"
   },
   "description": "sonarwhal rule that checks if the web app manifest file is valid",
   "devDependencies": {
